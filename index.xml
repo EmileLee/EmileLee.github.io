@@ -5,20 +5,12 @@
     <link>https://EmileLee.github.io/</link>
       <atom:link href="https://EmileLee.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Chenzhuo Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 15:46:37 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 15:45:44 +0800</lastBuildDate>
     <image>
       <url>https://EmileLee.github.io/images/icon_hu6729ef97da34eb7376327622028fed26_27137_512x512_fill_lanczos_center_2.png</url>
       <title>Chenzhuo Li</title>
       <link>https://EmileLee.github.io/</link>
     </image>
-    
-    <item>
-      <title>2019 Mst Microscopic</title>
-      <link>https://EmileLee.github.io/publication/2019-mst-microscopic/</link>
-      <pubDate>Mon, 16 Nov 2020 15:46:37 +0800</pubDate>
-      <guid>https://EmileLee.github.io/publication/2019-mst-microscopic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>2020 Rsi HT</title>
@@ -65,6 +57,14 @@
       <link>https://EmileLee.github.io/publication/2020-apl-fluorescent/</link>
       <pubDate>Mon, 16 Nov 2020 12:22:12 +0800</pubDate>
       <guid>https://EmileLee.github.io/publication/2020-apl-fluorescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A flexible and easy-to-implement single-camera microscopic 3D digital image correlation technique</title>
+      <link>https://EmileLee.github.io/publication/2019-mst-microscopic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://EmileLee.github.io/publication/2019-mst-microscopic/</guid>
       <description></description>
     </item>
     
