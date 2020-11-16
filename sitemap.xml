@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://EmileLee.github.io/publication/2019-ol-extensometer/</loc>
-    <lastmod>2020-11-16T15:46:22+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://EmileLee.github.io/publication/2020-rsi-ht/</loc>
     <lastmod>2020-11-16T15:45:44+08:00</lastmod>
   </url>
@@ -88,7 +83,17 @@
   </url>
   
   <url>
+    <loc>https://EmileLee.github.io/tag/dic/</loc>
+    <lastmod>2020-11-16T12:22:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://EmileLee.github.io/publication/2020-apl-fluorescent/</loc>
+    <lastmod>2020-11-16T12:22:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/tags/</loc>
     <lastmod>2020-11-16T12:22:12+08:00</lastmod>
   </url>
   
@@ -105,7 +110,11 @@
   </url>
   
   <url>
-    <loc>https://EmileLee.github.io/tags/</loc>
+    <loc>https://EmileLee.github.io/publication/2019-ol-extensometer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/tag/video-extensometer/</loc>
   </url>
   
 </urlset>
