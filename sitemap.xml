@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://EmileLee.github.io/authors/</loc>
+    <lastmod>2020-11-17T16:04:16+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://EmileLee.github.io/news/20201117-news/</loc>
+    <lastmod>2020-11-17T16:04:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/author/chenzhuo-li/</loc>
     <lastmod>2020-11-17T16:04:16+08:00</lastmod>
   </url>
   
@@ -23,11 +33,6 @@
   </url>
   
   <url>
-    <loc>https://EmileLee.github.io/authors/</loc>
-    <lastmod>2020-11-16T15:45:32+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://EmileLee.github.io/tag/backlight/</loc>
     <lastmod>2020-11-16T15:45:32+08:00</lastmod>
   </url>
@@ -39,11 +44,6 @@
   
   <url>
     <loc>https://EmileLee.github.io/author/bo-dong/</loc>
-    <lastmod>2020-11-16T15:45:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://EmileLee.github.io/author/chenzhuo-li/</loc>
     <lastmod>2020-11-16T15:45:32+08:00</lastmod>
   </url>
   
