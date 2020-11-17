@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://EmileLee.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://EmileLee.github.io/authors/</loc>
     <lastmod>2020-11-17T16:04:16+08:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   
   <url>
     <loc>https://EmileLee.github.io/author/chenzhuo-li/</loc>
-    <lastmod>2020-11-17T16:04:16+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://EmileLee.github.io/</loc>
     <lastmod>2020-11-17T16:04:16+08:00</lastmod>
   </url>
   
@@ -93,23 +103,18 @@
   </url>
   
   <url>
+    <loc>https://EmileLee.github.io/talk1/2020-idics/</loc>
+    <lastmod>2020-10-22T15:43:56+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://EmileLee.github.io/talk1/</loc>
+    <lastmod>2020-10-22T15:43:56+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://EmileLee.github.io/author/bing-pan/</loc>
-    <lastmod>2020-11-16T12:22:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://EmileLee.github.io/publication/2020-apl-fluorescent/</loc>
-    <lastmod>2020-11-16T12:22:12+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://EmileLee.github.io/talk/2020-idics/</loc>
-    <lastmod>2020-10-22T15:43:56+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://EmileLee.github.io/talk/</loc>
-    <lastmod>2020-10-22T15:43:56+08:00</lastmod>
+    <lastmod>2020-10-08T15:45:44+08:00</lastmod>
   </url>
   
   <url>
@@ -133,6 +138,11 @@
   </url>
   
   <url>
+    <loc>https://EmileLee.github.io/publication/2020-apl-fluorescent/</loc>
+    <lastmod>2020-07-28T12:22:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://EmileLee.github.io/publication/2019-mst-microscopic/</loc>
   </url>
   
@@ -145,11 +155,11 @@
   </url>
   
   <url>
-    <loc>https://EmileLee.github.io/talk/2020-26bstam/</loc>
+    <loc>https://EmileLee.github.io/talk1/2020-26bstam/</loc>
   </url>
   
   <url>
-    <loc>https://EmileLee.github.io/talk/2020-ifosa/</loc>
+    <loc>https://EmileLee.github.io/talk1/2020-ifosa/</loc>
   </url>
   
   <url>
