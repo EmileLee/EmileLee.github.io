@@ -17,7 +17,10 @@
       <link>https://EmileLee.github.io/post/20201124-sensors/</link>
       <pubDate>Tue, 24 Nov 2020 20:19:45 +0800</pubDate>
       <guid>https://EmileLee.github.io/post/20201124-sensors/</guid>
-      <description></description>
+      <description>&lt;p&gt;Digital gradient sensing (DGS) is a non-contact and full-field optical measurement technique, which assesses mechanical behaviors of transparent materials or specular structures by measuring angular deflections of light rays. However, owing to the poor light-gathering capability of its imaging system, the dynamic performance of DGS is heavily restricted. Here, a method of enhancing the dynamic performance of DGS by improving its speckle target is proposed. The method employs the technique of &lt;strong&gt;backlight illumination&lt;/strong&gt;, which significantly increases the utilization efficiency of light, shortens the exposure time, and enhances the dynamic performance of DGS. Additionally, it also uses the &lt;strong&gt;optimized digital speckle pattern&lt;/strong&gt; to improve the measurement precision and accuracy. For validation, a comparison experiment was conducted, proving that the proposed method can improve the utilization efficiency of light by about 80 times and improve the quality of the speckle images by about 40%. Real tests, including a uniaxial tension test using transmission-mode DGS (&lt;em&gt;t&lt;/em&gt;-DGS) and a three-point bending test using reflection-mode DGS (&lt;em&gt;r&lt;/em&gt;-DGS), were also carried out, showing the efficacy and high compatibility of the proposed backlight digital speckle target. In summary, this simple method greatly improves the performance of DGS, which can be used as a standard method in both &lt;em&gt;t&lt;/em&gt;-DGS and &lt;em&gt;r&lt;/em&gt;-DGS.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download PDF from the &lt;a href=&#34;https://www.mdpi.com/1424-8220/20/22/6557/pdf&#34; target=&#34;_blank&#34;&gt;publisher&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
